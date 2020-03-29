@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Feature</string>
+    <string name="name_text">Name:</string>
+    <string name="username_text">Chris Andasei</string>
+    <string name="slack_username">Slack Username:</string>
+    <string name="slack_username_text">qrissy</string>
+    <string name="start_ng_email">Start.NG email:</string>
+    <string name="slack_ng_email_text">qris09@gmail.com</string>
+    <string name="tracks">Tracks:</string>
+    <string name="tracks_text">Mobile</string>
+</resources>
